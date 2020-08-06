@@ -1,13 +1,13 @@
 @echo off
 if not %0==MS-VirusFixer3.cmd ren %0 MS-VirusFixer3.cmd
 cls
-Title MS-Dos Virus Remover ... Abdo Mohamed ...
+Title MS-Dos Virus Remover ... Abdelrahman Helaly ...
 color 9
 mode 50,15
 echo.
 echo.
 echo ##################################################
-echo                 github.com/abd0m0hamed
+echo                 github.com/AHelaly
 echo          Welcome To MS-Dos Virus Remover
 echo.
 echo       This Is The End Of 'Copy.exe' Virus ...
@@ -303,9 +303,9 @@ echo Your System Had Fixed Sccussfully ..
 echo.
 echo.
 echo.
-echo                Abdo Mohamed
+echo                Abdelrahman Helaly
 echo.
-echo                https://github.com/abd0m0hamed
+echo                https://Github.com/AH3laly
 echo.
 echo ##################################################
 echo.

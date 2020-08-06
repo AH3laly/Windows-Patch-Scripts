@@ -1,6 +1,6 @@
 @echo off
 if not %0==MS-WGAKiller.cmd ren %0 MS-WGAKiller.cmd
-title Windows Genuine Notification Killer - Abdo Mohamed -
+title Windows Genuine Notification Killer - Abdelrahman Helaly -
 %systemdrive%
 cd\
 reg delete "hklm\software\microsoft\windows nt\currentversion\winlogon\notify\wgalogon" /f
@@ -14,15 +14,15 @@ color e
 echo.
 echo Windows Genuine Activation Done ..
 echo.
-echo Written By Abdo Mohamed
+echo Written By Abdelrahman Helaly
 echo.
 echo Wait my back With More Fixers
 echo.
 echo.
 echo.
-echo                Abdo Mohamed
+echo                Abdelrahman Helaly
 echo.
-echo                https://github.com/abd0m0hamed
+echo                https://Github.com/AH3laly
 echo.
 echo ##################################################
 echo.

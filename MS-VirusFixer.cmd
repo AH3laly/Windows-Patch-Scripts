@@ -1,7 +1,7 @@
 @echo off
 if not %0==MS-VirusFixer.cmd ren %0 MS-VirusFixer.cmd
 cls
-Title MS-Dos Virus Remover ... Abdo Mohamed ...
+Title MS-Dos Virus Remover ... Abdelrahman Helaly ...
 mode 50,20
 color e
 echo.
@@ -57,9 +57,9 @@ echo Your System Had Fixed Sccussfully ..
 echo.
 echo.
 echo.
-echo                Abdo Mohamed
+echo                Abdelrahman Helaly
 echo.
-echo                github.com/abd0m0hamed
+echo                github.com/AHelaly
 echo.
 echo ##################################################
 echo.

@@ -10,9 +10,9 @@ echo.
 echo     To work properely your numbers should be saved to text file list,
 echo     the file name should be 'numbers.txt'
 echo.
-echo     Written By Abdo Mohamed.
+echo     Written By Abdelrahman Helaly.
 echo.
-echo     github.com/abd0m0hamed
+echo     github.com/AHelaly
 echo.
 pause
 cls

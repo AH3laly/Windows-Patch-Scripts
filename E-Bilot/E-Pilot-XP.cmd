@@ -1,10 +1,10 @@
 @echo off
 if not %0==E-Pilot-XP.cmd ren %0 E-Pilot-XP.cmd
-Title ^: E-Pilot By Abdo Mohamed ^:)
+Title ^: E-Pilot By Abdelrahman Helaly ^:)
 echo.&echo.
 echo     Welcome to Ethernet Pilot
 echo     Supports Windows XP, Server 2003 only&echo.
-echo     github.com/abd0m0hamed
+echo     github.com/AHelaly
 echo.&echo.
 :options
 echo  Select option:&echo.
